@@ -4,8 +4,8 @@
 
 /**
  * main - prints a random number and states whether it is positive, negative, or zero.
- *
- * Return: Always 0.
+ * Return: Always.
+ * 
  */
 
 int main(void)
